@@ -1,8 +1,12 @@
+STRIKERS
+
 Salah
 Mane
 Firmino
 Origi
 Jota
+
+MIDFIELDERS
 
 Henderson
 Fabinho
