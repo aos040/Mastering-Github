@@ -1,4 +1,4 @@
-STRIKERS
+STRIKERS OR FORWARDS OR ST
 
 Salah
 Mane
@@ -6,13 +6,9 @@ Firmino
 Origi
 Jota
 
-MIDFIELDERS
+MIDFIELDERS OR CM
 
 Henderson
 Fabinho
 Keita
 Alcantara
-
-DEFENDERS
-
-Van Dijk
