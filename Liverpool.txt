@@ -3,6 +3,8 @@ STRIKERS OR FORWARDS OR ST
 Salah
 Mane
 Firmino
+Shaqiri
+Taki
 Origi
 Jota
 
@@ -11,4 +13,5 @@ MIDFIELDERS OR CM OR CDM
 Henderson
 Fabinho
 Keita
+Jones
 Alcantara
